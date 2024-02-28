@@ -46,3 +46,9 @@ form .display input{
 form input.equal{
     width: 145px;
 }
+form input.operator{
+    color:orange;
+}
+form input.zeros{
+    color: aqua;
+}
